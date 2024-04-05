@@ -1,3 +1,2 @@
-In this app, we can check today's webtoon.
-Using flutter, and dart.
-it is also clone coding of Normard coder's lecture.
+노마드코더의 플러터를 이용한 웹툰앱 만들기 클론 코딩입니다.
+https://nomadcoders.co/flutter-for-beginners/lobby
